@@ -23,7 +23,7 @@ cp ~/.tmux.conf ~/.tmux.conf_bak
 
 2. just get the file
 
-curl https://raw.githubusercontent.com/wklken/k-tmux/master/tmux.conf > ~/.tmux.conf
+curl https://raw.githubusercontent.com/bianwenbo/k-tmux/master/tmux.conf > ~/.tmux.conf
 
 3. Done, enjoy it
 ```
@@ -31,7 +31,7 @@ curl https://raw.githubusercontent.com/wklken/k-tmux/master/tmux.conf > ~/.tmux.
 Use github
 
 ```
-git clone https://github.com/wklken/k-tmux.git
+git clone https://github.com/bianwenbo/k-tmux.git
 ln -s $PWD/k-tmux/tmux.conf ~/.tmux.conf
 ```
 
